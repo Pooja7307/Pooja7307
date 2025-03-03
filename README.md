@@ -7,7 +7,7 @@ I'm a **Web Engineer** passionate about building responsive, user-friendly appli
 - 🌱 Currently learning **advanced backend development**.
 - 🔗 Always open to collaborating on exciting projects.
 - 💻 Exploring new technologies and enhancing my Git skills.
-- 
+  
 ![Coding GIF](https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)
 
 
@@ -20,11 +20,11 @@ I'm a **Web Engineer** passionate about building responsive, user-friendly appli
 
 ## 📌 Projects
 🚀 Check out some of my work:
-- [CravingCourier] [GitHub Repo](https://github.com/Pooja7307/CravingCourier) | [Live Demo](https://pooja7307.github.io/CravingCourier/)
+- CravingCourier [GitHub Repo](https://github.com/Pooja7307/CravingCourier) | [Live Demo](https://pooja7307.github.io/CravingCourier/)
 – This project aims to provide a seamless and efficient food ordering experience. It is designed to be scalable and optimized for performance, ensuring a smooth user experience.  
-- [Portfolio] [GitHub Repo](https://github.com/Pooja7307/Portfolio) | [Live Demo](https://pooja7307.github.io/Portfolio/)
+- Portfolio [GitHub Repo](https://github.com/Pooja7307/Portfolio) | [Live Demo](https://pooja7307.github.io/Portfolio/)
 -  This portfolio serves as a central hub to display my expertise in web development. It highlights my journey, skills, and the projects I've worked on. The website is designed to be visually appealing, user-friendly, and optimized for performance.  
-- [TaskManager] [GitHub Repo](https://github.com/Pooja7307/TaskManager) | [Live Demo](https://pooja7307.github.io/TaskManager/)
+- TaskManager [GitHub Repo](https://github.com/Pooja7307/TaskManager) | [Live Demo](https://pooja7307.github.io/TaskManager/)
 -  The Task Manager App is designed to help users stay organized and productive. It provides an intuitive interface to manage daily tasks efficiently, whether for personal or professional use. The app ensures seamless functionality with a user-friendly frontend. 
 
 ## 📫 Connect with Me
