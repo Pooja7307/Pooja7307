@@ -1,19 +1,18 @@
 # Hi there! 👋 I'm Pooja Gautam
-
-I'm a **Web Engineer** passionate about building responsive, user-friendly applications. I love working with **HTML, CSS, JavaScript, MongoDB, Node.js (Express), and JWT authentication** to create secure and scalable systems.
+ <p align="center">
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)" width="40%" />
+  <span style=" vertical-align: middle; width: "55%"">
+<p>I'm a **Web Engineer** passionate about building responsive, user-friendly applications. I love working with **HTML, CSS, JavaScript, MongoDB, Node.js (Express), and JWT authentication** to create secure and scalable systems.</p>
+ </span>
+</p>
+  
 
 ## 🚀 About Me
-
-  <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" />
-  <span style=" vertical-align: middle; width: "55%"">
 - 💡 I enjoy problem-solving and optimizing performance.
 - 🌱 Currently learning **advanced backend development**.
 - 🔗 Always open to collaborating on exciting projects.
 - 💻 Exploring new technologies and enhancing my Git skills.
- </span>
-</p>
-  
+
   
 ![Coding GIF](https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)
 
