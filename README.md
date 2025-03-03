@@ -8,7 +8,7 @@ I'm a **Web Engineer** passionate about building responsive, user-friendly appli
 - 🔗 Always open to collaborating on exciting projects.
 - 💻 Exploring new technologies and enhancing my Git skills.
 - 
-![Coder GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 ## 🔧 Skills & Technologies
