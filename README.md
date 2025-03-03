@@ -6,7 +6,7 @@ I'm a **Web Engineer** passionate about building responsive, user-friendly appli
 
   <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" />
-  <span style="display: inline-block; vertical-align: middle; width: "55%"">
+  <span style=" vertical-align: middle; width: "55%"">
 - 💡 I enjoy problem-solving and optimizing performance.
 - 🌱 Currently learning **advanced backend development**.
 - 🔗 Always open to collaborating on exciting projects.
