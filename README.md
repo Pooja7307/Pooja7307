@@ -9,7 +9,7 @@ I'm a **Web Engineer** passionate about building responsive, user-friendly appli
 - 💻 Exploring new technologies and enhancing my Git skills.
 - 
   ##
-   ![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+ (https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ## 🔧 Skills & Technologies
