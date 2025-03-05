@@ -1,30 +1,5 @@
 # Hi there! 👋 I'm Pooja Gautam
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" />
-  <div style="display: inline-block; width: 55%; text-align: left;">
-    <h2 style="opacity: 0; animation: fadeIn 2s forwards;">Hey there! I'm a Web Engineer 🚀</h2>
-    <p style="opacity: 0; animation: slideIn 2s forwards 1s;">
-       Passionate about crafting user-friendly and efficient web applications. I specialize in 
-       <strong>HTML, CSS, JavaScript, Node.js, MongoDB, and JWT authentication.</strong>
-       Always exploring new trends and optimizing code for better performance!
-    </p>
-  </div>
-</div>
-
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-
-  @keyframes slideIn {
-    from { opacity: 0; transform: translateX(-20px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-</style>
-
- 
 I'm a **Web Engineer** passionate about building responsive, user-friendly applications. I love working with **HTML, CSS, JavaScript, MongoDB, Node.js (Express), and JWT authentication** to create secure and scalable systems.
 
 ![Coding GIF](https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)
